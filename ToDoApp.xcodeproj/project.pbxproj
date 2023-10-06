@@ -12,6 +12,7 @@
 		B02E11BE2ACCB6B000C68A5A /* BackgroundImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02E11BD2ACCB6B000C68A5A /* BackgroundImageView.swift */; };
 		B02E11C02ACCD36800C68A5A /* NewTaskItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02E11BF2ACCD36800C68A5A /* NewTaskItemView.swift */; };
 		B02E11C22ACCDCA200C68A5A /* BlankView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02E11C12ACCDCA200C68A5A /* BlankView.swift */; };
+		B038E5312ACF907500F29E81 /* CheckBoxStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B038E5302ACF907500F29E81 /* CheckBoxStyle.swift */; };
 		B04517752ACF8BFF00467D7F /* ListRowItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04517742ACF8BFF00467D7F /* ListRowItemView.swift */; };
 		B09869412AC5121A006B1121 /* ToDoAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09869402AC5121A006B1121 /* ToDoAppApp.swift */; };
 		B09869432AC5121A006B1121 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B09869422AC5121A006B1121 /* ContentView.swift */; };
@@ -30,6 +31,7 @@
 		B02E11BD2ACCB6B000C68A5A /* BackgroundImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundImageView.swift; sourceTree = "<group>"; };
 		B02E11BF2ACCD36800C68A5A /* NewTaskItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskItemView.swift; sourceTree = "<group>"; };
 		B02E11C12ACCDCA200C68A5A /* BlankView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlankView.swift; sourceTree = "<group>"; };
+		B038E5302ACF907500F29E81 /* CheckBoxStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBoxStyle.swift; sourceTree = "<group>"; };
 		B04517742ACF8BFF00467D7F /* ListRowItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowItemView.swift; sourceTree = "<group>"; };
 		B098693D2AC5121A006B1121 /* ToDoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B09869402AC5121A006B1121 /* ToDoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoAppApp.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 		B098695D2AC51505006B1121 /* Style */ = {
 			isa = PBXGroup;
 			children = (
+				B038E5302ACF907500F29E81 /* CheckBoxStyle.swift */,
 			);
 			path = Style;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				B02E11BA2ACCA15900C68A5A /* Constant.swift in Sources */,
 				B04517752ACF8BFF00467D7F /* ListRowItemView.swift in Sources */,
 				B09869412AC5121A006B1121 /* ToDoAppApp.swift in Sources */,
+				B038E5312ACF907500F29E81 /* CheckBoxStyle.swift in Sources */,
 				B098694D2AC5121E006B1121 /* ToDoApp.xcdatamodeld in Sources */,
 				B02E11C02ACCD36800C68A5A /* NewTaskItemView.swift in Sources */,
 			);
